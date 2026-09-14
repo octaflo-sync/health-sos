@@ -1,0 +1,6 @@
+{
+  "name": "HealthSOS Emergency Ecosystem",
+  "description": "Unified emergency response and healthcare management platform connecting citizens, hospitals, police, and government authorities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
